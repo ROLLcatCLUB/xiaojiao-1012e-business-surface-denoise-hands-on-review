@@ -1,0 +1,23 @@
+{
+  "stage": "1012E_BUSINESS_SURFACE_DENOISE_AND_HANDS_ON_REVIEW_POLISH",
+  "final_status": "XIAOJIAO_BUSINESS_SURFACE_DENOISE_AND_HANDS_ON_REVIEW_POLISH_PASS",
+  "marker": "ALL_1012E_BUSINESS_SURFACE_DENOISE_AND_HANDS_ON_REVIEW_POLISH_CHECKS_OK",
+  "zip_path": "docs/audit_packages/xiaojiao_business_surface_denoise_1012E.zip",
+  "zip_sha256": "cdad1a50e0717c810cd3ff6655537261fa37deb1671c23954f28ca4a78ca852c",
+  "zip_entry_count": 12,
+  "entries": [
+    "frontend/xiaojiao-preview.html",
+    "docs/foundation/xiaojiao_business_surface_denoise_1012E.md",
+    "docs/foundation/xiaojiao_business_surface_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/visible_text_audit_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/home_surface_after_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/lesson_focus_after_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/material_folder_after_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/candidate_review_after_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/hands_on_review_checklist_1012E.json",
+    "scripts/validate_xiaojiao_business_surface_denoise_1012E.py",
+    "docs/audit/xiaojiao_business_surface_denoise_1012E_result.json",
+    "docs/audit/xiaojiao_business_surface_denoise_1012E_report.md"
+  ],
+  "created_at": "2026-06-14T13:43:29.186387+00:00"
+}

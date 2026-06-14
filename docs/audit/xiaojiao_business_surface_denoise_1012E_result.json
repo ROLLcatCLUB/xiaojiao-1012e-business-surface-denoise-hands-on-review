@@ -1,0 +1,37 @@
+{
+  "stage": "1012E_BUSINESS_SURFACE_DENOISE_AND_HANDS_ON_REVIEW_POLISH",
+  "final_status": "XIAOJIAO_BUSINESS_SURFACE_DENOISE_AND_HANDS_ON_REVIEW_POLISH_PASS",
+  "marker": "ALL_1012E_BUSINESS_SURFACE_DENOISE_AND_HANDS_ON_REVIEW_POLISH_CHECKS_OK",
+  "business_flags": {
+    "visible_engineering_labels_removed": true,
+    "business_model_applied": true,
+    "material_folder_enabled": true,
+    "review_gate_enabled": true,
+    "legacy_entry_enabled": true,
+    "preview_route_only": true,
+    "default_route_changed": false,
+    "formal_apply_performed": false,
+    "real_database_written": false,
+    "memory_written": false,
+    "Feishu_written": false,
+    "new_live_provider_call": false
+  },
+  "validator_commands": [
+    "python scripts/validate_xiaojiao_business_surface_denoise_1012E.py",
+    "python scripts/validate_xiaojiao_business_surface_denoise_1012E.py --root ."
+  ],
+  "entries": [
+    "frontend/xiaojiao-preview.html",
+    "docs/foundation/xiaojiao_business_surface_denoise_1012E.md",
+    "docs/foundation/xiaojiao_business_surface_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/visible_text_audit_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/home_surface_after_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/lesson_focus_after_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/material_folder_after_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/candidate_review_after_denoise_1012E.json",
+    "samples/xiaojiao_business_surface_denoise_1012E/hands_on_review_checklist_1012E.json",
+    "scripts/validate_xiaojiao_business_surface_denoise_1012E.py",
+    "docs/audit/xiaojiao_business_surface_denoise_1012E_result.json",
+    "docs/audit/xiaojiao_business_surface_denoise_1012E_report.md"
+  ]
+}

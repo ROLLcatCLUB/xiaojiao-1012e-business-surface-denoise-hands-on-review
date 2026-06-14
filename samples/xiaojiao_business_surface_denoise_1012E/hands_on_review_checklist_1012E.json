@@ -1,0 +1,13 @@
+{
+  "stage": "1012E_BUSINESS_SURFACE_DENOISE_AND_HANDS_ON_REVIEW_POLISH",
+  "checklist": [
+    {"item": "首页像今天待处理的一节课", "expected": true},
+    {"item": "单课焦点以课时结构和教学目标为主视觉", "expected": true},
+    {"item": "本课材料夹像教师整理材料", "expected": true},
+    {"item": "候选审核页只说教师能理解的话", "expected": true},
+    {"item": "旧工作台只作为弱入口", "expected": true},
+    {"item": "工程合同词不出现在教师可见文本", "expected": true},
+    {"item": "preview-only 边界仍保留在审计结果", "expected": true}
+  ],
+  "next_review": "USER_HANDS_ON_BUSINESS_EXPERIENCE_REVIEW"
+}

@@ -1,0 +1,11 @@
+{
+  "surface": "material_folder",
+  "teacher_visible_title": "本课材料夹",
+  "visible_materials": [
+    {"name": "学习单", "state": "已有候选，待确认", "actions": ["查看候选", "进入确认", "暂存"]},
+    {"name": "评价量规", "state": "还未生成", "actions": ["建一版量规", "稍后"]},
+    {"name": "资源参考", "state": "待选择", "actions": ["看参考", "暂存"]},
+    {"name": "证据反思", "state": "可顺手记录", "actions": ["顺手记一笔", "查看记录"]}
+  ],
+  "engineering_labels_visible": false
+}

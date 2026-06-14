@@ -1,0 +1,8 @@
+{
+  "surface": "single_lesson_focus",
+  "teacher_visible_title": "《色彩的感觉》",
+  "visible_business": ["教学目标", "课时结构", "探究环节建议", "本课材料夹", "轻记录", "待确认内容"],
+  "material_folder_first_screen": true,
+  "primary_actions": ["生成学习单候选", "本课材料夹", "确认课时草稿"],
+  "engineering_labels_visible": false
+}

@@ -1,0 +1,15 @@
+{
+  "surface": "home",
+  "teacher_visible_title": "今天先处理这一课",
+  "teacher_visible_items": [
+    "四年级 1 班《色彩的感觉》",
+    "课时设计待确认",
+    "学习单已有候选",
+    "评价量规未生成",
+    "资源参考待选择",
+    "待确认 2 项",
+    "小教建议：先确认课时结构，再处理学习单。"
+  ],
+  "primary_actions": ["进入单课焦点", "稍后", "需要长任务？打开旧工作台"],
+  "engineering_labels_visible": false
+}

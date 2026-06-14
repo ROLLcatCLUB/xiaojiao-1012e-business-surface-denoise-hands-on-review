@@ -1,0 +1,8 @@
+{
+  "surface": "candidate_review",
+  "teacher_visible_title": "这是一版候选稿",
+  "teacher_visible_guidance": "你确认后，才会放入本课材料。",
+  "visible_metadata": ["候选类型", "材料", "状态"],
+  "actions": ["确认采用", "修改后采用", "暂存", "放弃"],
+  "engineering_labels_visible": false
+}

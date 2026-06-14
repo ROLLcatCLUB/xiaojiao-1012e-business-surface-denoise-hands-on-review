@@ -1,0 +1,30 @@
+{
+  "stage": "1012E_BUSINESS_SURFACE_DENOISE_AND_HANDS_ON_REVIEW_POLISH",
+  "visible_engineering_labels_removed": true,
+  "audit_scope": "teacher_visible_text_only",
+  "removed_from_teacher_view": [
+    "home_light_entry",
+    "single_lesson_focus",
+    "lesson_material_folder",
+    "candidate_review_surface",
+    "legacy_deep_task_entry",
+    "material_folder_enabled=true",
+    "business_progress_enabled=true",
+    "review_queue_enabled=true",
+    "teacher_review_required=true",
+    "formal_apply_performed=false",
+    "old_strong_agent_page_preserved=true",
+    "legacy_agent_as_default=false",
+    "work_object",
+    "stub_only",
+    "preview stub",
+    "later_phase_reserved",
+    "provider/debug/store raw labels"
+  ],
+  "allowed_locations": ["data_attribute", "script_state", "hidden_debug", "audit_trace", "validator_fixture"],
+  "teacher_visible_boundary": {
+    "preview_route_only": "kept in audit result, not shown as teacher copy",
+    "default_route_changed": "kept in audit result, not shown as teacher copy",
+    "formal_apply_performed": "kept in audit result, not shown as teacher copy"
+  }
+}
